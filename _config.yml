@@ -1,5 +1,5 @@
-title:            School Diary Blog
-description:      A tale of School Diary, powered by Zoment''s journey.
+title:            School Diary Blogs
+description:      A tale of School Diary journey.
 disqus_shortname:  # put your disqus here
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
@@ -28,14 +28,14 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Zoment Team
+  name:           School Diary Team
   site:           http://schooldiary.me
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            “School Diary makes School to Parent communication easy & engaging“
   email:          contact@ufony.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: # if no twitter in this config, the twitter follow button will be removed
-  facebook:
+  twitter: SchoolDiaryApp
+  facebook:SchoolDiaryApp
   github: 
   stackexchange:
   linkedin:
