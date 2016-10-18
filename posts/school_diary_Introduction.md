@@ -1,6 +1,6 @@
 # School Diary
 
-** Making School to Parent communication easy, engaging & eco-friendly.**
+**Making School to Parent communication easy, engaging & eco-friendly.**
 
 School Diary has evolved and continues to revolve around on time and live information sharing between the school and the parents. No longer are you required to look up in your child’s diary for any notes or remarks. Nor do you need to ask fellow parents for anything that you may have missed out on. All information, be it class schedules or homeworks, submissions or craft classes, will be informed to you directly and on time.
 
