@@ -1,4 +1,4 @@
-# School Diary
+﻿# School Diary Blog
 
 **Making School to Parent communication easy, engaging & eco-friendly.**
 
