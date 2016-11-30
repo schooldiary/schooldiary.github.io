@@ -10,7 +10,7 @@ When you work closely with your children&#39;s teachers, you help support your c
 
 The University of Cyprus website published a document called &quot; [The Impact of Parental Involvement on Children&#39;s Education](https://www.ucy.ac.cy/nursery/documents/ThemaVdomadas/DCSF-Parental_Involvement_1.pdf),&quot; which states:
 
-Parental involvement with children from an early age has been found to equate with better outcomes (particularly in terms of cognitive development. . .Research using data from the National Child Development Study (NCDS) to explore the effect of parents&#39; involvement on achievement at 16 in English and Maths (and average grades across all public exams) found that very high parental interest is associated with better exam results compared to children whose parents show no interest.
+Parental involvement with children from an early age has been found to equate with better outcomes (particularly in terms of cognitive development).Research using data from the National Child Development Study (NCDS) to explore the effect of parents&#39; involvement on achievement at 16 in English and Maths (and average grades across all public exams) found that very high parental interest is associated with better exam results compared to children whose parents show no interest.
 
 Furthermore, a 2010 [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2973328/#R20) by Nermeen E. El Nokali, Heather J. Bachman, and Elizabeth Votruba-Drzal found that &quot;children with highly involved parents had enhanced social functioning and fewer behavior problems.&quot;
 
