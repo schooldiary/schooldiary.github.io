@@ -1,4 +1,9 @@
-**Importance of Close Co-Ordination between Parents and Teachers for Child&#39;s Overall Growth**
+---
+layout: post
+title:  "Experts explain how close co-Ordination between Parents and Teachers enhance Child&#39;s Overall Growth"
+date:   2016-11-30 13:07:10
+categories: SchoolDiary update
+---
 
 When you work closely with your children&#39;s teachers, you help support your child&#39;s personal and academic success. Coordination with teachers demonstrates that you are willing to do whatever you need to to help your child achieve their potential.
 
