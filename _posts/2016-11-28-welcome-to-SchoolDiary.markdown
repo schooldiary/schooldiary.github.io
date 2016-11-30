@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Welcome to SchoolDiary!"
+date:   2016-11-28 13:07:10
+categories: SchoolDiary update
+---
 # School Diary
 ** Making School to Parent communication easy, engaging & eco-friendly.
 **
