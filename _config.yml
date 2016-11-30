@@ -1,4 +1,4 @@
-title:            SchoolDiary Blog
+title:            School Diary Blog
 description:      A tale of SchoolDiary journey.
 disqus_shortname:  # put your disqus here
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -28,10 +28,10 @@ menu:
 
 # Owner/author information
 owner:
-  name:           SchoolDiary Team
+  name:           School Diary Team
   site:           http://schooldiary.me
   avatar:         images/avatar.jpg
-  bio:            “SchoolDiary makes School to Parent communication easy & engaging“
+  bio:            “School Diary makes School to Parent communication easy & engaging“
   email:          contact@ufony.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: SchoolDiaryApp
